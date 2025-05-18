@@ -31,4 +31,4 @@ async def NasılKullanılır(ctx):
 async def NelereSebepOlur(ctx):
     await ctx.send(f"Yapay ışıkların gece boyunca açık kalması, insan vücudunun doğal biyolojik saatini bozabilir. Bu durum, uyku sorunlarına, melatonin seviyelerinin düşmesine ve uzun vadede bağışıklık sisteminin zayıflamasına neden olabilir. Ayrıca, ışık kirliliği zararları, stres ve anksiyete gibi psikolojik sorunları da tetikleyebilir.")
 
-bot.run("MTM3MzU5NzExOTI2ODY1MTA3OQ.GQM96L.A6ZIU6J4GZKk_0RRLSdIWrHBnx83Lrb6D_QM70")
+bot.run("MTM3MzU5NzExOTI2ODY1MTA3OQ.GYJeEG.QQZMw-HuBMRtZB1mHEBNMbtFxgExkpySWlJQmg")
